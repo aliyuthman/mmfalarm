@@ -1,0 +1,36 @@
+.address {
+  font-size: 24px;
+}
+
+.address span {
+  margin: 0 32px;
+}
+
+.about-hero {
+  background-color: var(--primary-color);
+  height: 350px;
+}
+
+.about-hero span {
+  padding-top: 3.2rem;
+  padding-bottom: 3.2rem;
+  max-width: 100%;
+  text-align: center;
+  font-size: 19px;
+  line-height: 1.75;
+  font-weight: 500;
+}
+
+.about-hero span a {
+  color: #36C562;
+}
+
+.about-hero span a:hover {
+  color: var(--secondary-color);
+}
+
+.white {
+  background-color: #fdf5e7;
+  margin-top: 0;
+}
+

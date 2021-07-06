@@ -1,0 +1,23 @@
+footer {
+  margin-top: 32px;
+  height: 200px;
+  padding: 24px 0;
+  box-shadow: 0 -1px 3px rgb(0 0 0 / 10%), 0 -2px 2px rgb(0 0 0 / 6%), 0 0 2px rgb(0 0 0 / 7%);
+}
+
+.footer-container {
+  background: #2ca956;
+  padding: 0 40px;
+  display: flex;
+  margin: 0 auto;
+  height: 200px;
+  justify-content: center;
+  align-items: center;
+  padding: 4rem 0;
+  color: white;
+}
+
+.footer-container footer .social a {
+  margin: 0 10px;
+}
+
